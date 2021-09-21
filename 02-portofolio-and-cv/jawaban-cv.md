@@ -60,7 +60,7 @@ Ini adalah update pertama pada branch master
 
 11. unggah Git Repository tersebut kedalam GitHub <br>
 
-```git remote add origin https://github.com/ZeldaSibuea22/5-Git-and-Github.git```
+```git remote add origin https://github.com/ZeldaSibuea22/5-Git-and-Github.git```  <br>
      ```git push origin master```
 
 # Note
