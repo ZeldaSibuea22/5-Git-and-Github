@@ -4,7 +4,7 @@
 `mkdir zelda-sibuea`
 
 2. membuat sebuah file dengan nama ```README.md```, isi file tersebut dengan kalimat ```"Halo perkenalkan aku halaman utama"``` <br>
- `touch Readme.md``
+ `touch Readme.md`
  
 3. insialisasi folder tersebut dengan Git, kemudian dokumentasikan menggunakan ```commit``` dengan pesan ```"Inisialisasi Git Repository"``` <br>
   ```git init``` <br>
@@ -22,7 +22,7 @@
 `git commit -m "inisialisasi cv"`
 
 7. tambahkan 3 perusahaan yang akan kamu lamar, dan setiap menuliskan 1 nama perusahaan kamu harus melakukan dokumentasi menggunakan ```commit``` <br>
-``echo "Perusahaan 1" >> cv.txt
+`echo "Perusahaan 1" >> cv.txt
 git add .
 git commit -m "perusahaan 1"
 
@@ -32,7 +32,7 @@ git commit -m "perusahaan 2"
 
 echo "Perusahaan 2" >> cv.txt
 git add .
-git commit -m "perusahaan 3" ```
+git commit -m "perusahaan 3" `
 
 8. kembali ke branch ```master``` <br>
 ```git checkout master```
