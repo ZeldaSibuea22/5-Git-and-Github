@@ -22,7 +22,8 @@
 `git commit -m "inisialisasi cv"`
 
 7. tambahkan 3 perusahaan yang akan kamu lamar, dan setiap menuliskan 1 nama perusahaan kamu harus melakukan dokumentasi menggunakan ```commit``` <br>
-`echo "Perusahaan 1" >> cv.txt
+```
+echo "Perusahaan 1" >> cv.txt
 git add .
 git commit -m "perusahaan 1"
 
@@ -32,7 +33,9 @@ git commit -m "perusahaan 2"
 
 echo "Perusahaan 2" >> cv.txt
 git add .
-git commit -m "perusahaan 3" `
+git commit -m "perusahaan 3" 
+
+```
 
 8. kembali ke branch ```master``` <br>
 ```git checkout master```
