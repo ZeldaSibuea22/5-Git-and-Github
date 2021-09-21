@@ -32,5 +32,9 @@ git clone https://github.com/ZeldaSibuea22/tech4impact-students-bio.git
     ```
     git commit -m "add zelda-sibuea.md"
     ```
-  Hasil
-  <img width="527" alt="Capture" src="https://user-images.githubusercontent.com/73489643/134219226-f7883951-1f8f-4692-a02b-c18b1e81415e.PNG">
+    <br>
+    
+ Lakukan pull request dari GitHub Repository yang telah kamu fork untuk digabungkan ke dalam branch master pada GitHub Repository aslinya. <br>
+ ![WhatsApp Image 2021-09-21 at 23 39 06](https://user-images.githubusercontent.com/73489643/134219554-101a4887-203c-440d-a9ca-dc9c2bdcffe9.jpeg)
+
+
